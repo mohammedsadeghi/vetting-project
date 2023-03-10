@@ -23,7 +23,7 @@ export const CardsButton = styled(Button)(({ theme }) => ({
 export const PaginationContainer = styled(Box)(({ theme }) => ({
   display: "flex",
   justifyContent: "center",
-  backgroundColor: theme.palette.common.custom.purple,
+  backgroundColor: "#8449E4",
   marginTop: theme.spacing(4),
 }));
 
